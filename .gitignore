@@ -1,0 +1,28 @@
+# Flutter/Mobile
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Platform generated
+**/ios/Flutter/.last_build_id
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+*.jks
+
+# Misc
+*.log
+.DS_Store
